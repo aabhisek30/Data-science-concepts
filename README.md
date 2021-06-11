@@ -63,5 +63,5 @@
 2. Compared the result of different number of neighbours for uniform and distance weight
 3. Found that as number of neighbours increases, accuracy decreased drastically for uniform while remain almost constant for distance weight
 
-## Transfer learning
+ 
 
