@@ -27,9 +27,15 @@ Dataset used - Housing price Dataset
 2. Carried out CLT on price column
 
 
-6. Implemented k means
-7. Implemented Naive Bayes
-8. Linear regression by sklearn
-9. Implemented Linear regression with ridge regularization
-10. KNN for uniform and distance weight
-11. Transfer learning
+## k means clustering
+
+1. Implemented k means without using sklearn on toy dataset
+2. Visuliazed result of above implementation
+3. Implemented k means using sklearn on credit card dataset (https://www.kaggle.com/arjunbhasin2013/ccdata)
+4. Compared random and k means++ intialization of centroid for k means using Silhoutte score
+
+## Implemented Naive Bayes
+## Linear regression by sklearn
+## Implemented Linear regression with ridge regularization
+## KNN for uniform and distance weight
+## Transfer learning
