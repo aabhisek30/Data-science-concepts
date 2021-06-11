@@ -42,8 +42,18 @@
 
 ## Linear regression by sklearn
 
+1. Dataset used - Boston house (Inbuilt in sklearn)
+2. Implemented Linear regression using sklearn for different number of iteration(10-10000)
+3. Calcualted Mean Absoulte error(MAE) and Mean square error(MSE) for each iteration
+4. Plotted MAE and MSE vs number of iterations
+
 ## Implemented Linear regression with ridge regularization
 
 ## KNN for uniform and distance weight
 
+1. Dataset used - Iris Dataset
+2. Compared the result of different number of neighbours for uniform and distance weight
+3. Found that as number of neighbours increases, accuracy decreased drastically for uniform while remain almost constant for distance weight
+
 ## Transfer learning
+
