@@ -47,7 +47,15 @@
 3. Calcualted Mean Absoulte error(MAE) and Mean square error(MSE) for each iteration
 4. Plotted MAE and MSE vs number of iterations
 
-## Implemented Linear regression with ridge regularization
+## Implement linear regression with Ridge regularization using Gradient descent method
+
+1. Dataset used - Boston house (Inbuilt in sklearn)
+2. Implement Linear regression using gradient descent for different values of alpha
+3. Plot MAE vs number of iterations for different values of alpha
+4. Find optimal alpha value from plot
+5. calculated test and train error for different value of lambda (regularization parameter)
+6. plot train and test error vs lambda values
+7. Found optimal value of lambda
 
 ## KNN for uniform and distance weight
 
