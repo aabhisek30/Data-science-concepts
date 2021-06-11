@@ -6,4 +6,7 @@
 4. Central limit theorem
 5. Implemented k means
 6. Implemented Naive Bayes
-7. Transfer learning
+8. Linear regression by sklearn
+9. Implemented Linear regression with ridge regularization
+10. KNN for uniform and distance weight
+11. Transfer learning
