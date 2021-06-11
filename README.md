@@ -19,7 +19,7 @@
 
 ## Calculate pearson correlation coefficient without any library between numerical attributed and present them in heatmap
 
-Dataset used - Housing price Dataset 
+1. Dataset used - Housing price Dataset 
 
 ## Central limit theorem
 
@@ -34,8 +34,16 @@ Dataset used - Housing price Dataset
 3. Implemented k means using sklearn on credit card dataset (https://www.kaggle.com/arjunbhasin2013/ccdata)
 4. Compared random and k means++ intialization of centroid for k means using Silhoutte score
 
-## Implemented Naive Bayes
+## Naive Bayes
+
+1. Implemented Naive Bayes on Toy dataset(given in above repository) without using sklearn
+2. Implemented Gaussian probability function for numerical valued attributes
+3. Used concept of laplace smoothing to avoid zero probability problem for categorical variable 
+
 ## Linear regression by sklearn
+
 ## Implemented Linear regression with ridge regularization
+
 ## KNN for uniform and distance weight
+
 ## Transfer learning
